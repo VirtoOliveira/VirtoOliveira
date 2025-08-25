@@ -1,4 +1,4 @@
-<h2 align="center">Prazer ! Sou estudante de programação ( Ciências da Computação) na UFABC !</h2>
+<h1 align="center">Prazer ! Sou estudante de programação ( Ciências da Computação) na UFABC !</h1>
 
 ###
 
